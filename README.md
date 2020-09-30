@@ -1,2 +1,1 @@
-# exercise_bootstrap
-Integration exercise
+# decoupage_maquette
